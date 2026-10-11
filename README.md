@@ -120,6 +120,9 @@ The listed packages are based on the project's dependency configuration. Their i
 
 ---
 
+<img width="708" height="1536" alt="1768507772394" src="https://github.com/user-attachments/assets/54da3276-dc8c-40ec-8e7f-47d18b091dd1" />
+
+
 ## 📂 Application Structure
 
 The main application is organized into screens, models, data, themes, and reusable widgets.
